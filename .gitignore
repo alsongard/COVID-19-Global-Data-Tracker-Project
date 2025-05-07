@@ -11,3 +11,5 @@ data/
 
 
 /pyvenv.cfg
+
+testing.py
