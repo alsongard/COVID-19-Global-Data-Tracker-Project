@@ -7,7 +7,6 @@ share/
 lib/
 include/
 etc/
-data/
 
 
 /pyvenv.cfg
